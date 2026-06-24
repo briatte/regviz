@@ -84,7 +84,7 @@ Some of the packages used in the background or on an occasional basis include [`
 [healy-ch6]: https://socviz.co/06-modeling.html
 [ros]: https://avehtari.github.io/ROS-Examples/
 [wilke]: https://clauswilke.com/dataviz/
-[wlike-ch16]: https://clauswilke.com/dataviz/visualizing-uncertainty.html
+[wilke-ch16]: https://clauswilke.com/dataviz/visualizing-uncertainty.html
 
 ## Notes
  
