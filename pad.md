@@ -1,0 +1,9 @@
+- Matériau de la formation (en anglais) : https://github.com/briatte/regviz
+- Ressources utiles pour R (en français) : https://github.com/briatte/dsr/wiki/Stuff-in-French
+  - Le mieux pour commencer : Larmarange, guide-R (manuel) et webin-R (vidéos)
+    - https://larmarange.github.io/guide-R/
+    - https://larmarange.github.io/webin-R/seances.html
+  - Pour approfondir, Arel-Bundock : https://arelbundock.com/acmq.html
+- Sur la régression logistique :
+  - Fugard (les bases) : https://inductivestep.github.io/R-notes/logistic-regression.html
+  - Elff (plus avancé) : https://www.elff.eu/posts/2026-01-19-logit-and-AME-I/
