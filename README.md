@@ -1,13 +1,9 @@
 # README
 
-A six-hour summer module on visualizing regression model results, offered as part of the [Quantilille 2026][ql26] summer school.
+A six-hour summer module on visualizing regression model results, offered as part of the [Quantilille 2026][ql26] summer school. Please stay hydrated and use the [GitHub repository][regviz] for bug reports.
 
 [ql26]: https://ceraps.univ-lille.fr/detail-event/quantilille-2026
-
-Please stay hydrated and use the [GitHub repository][regviz] for bug reports.
-
 [regviz]: http://github.com/briatte/regviz
-[tidyverse]: https://tidyverse.org/
 
 ## Contents
 
@@ -50,6 +46,7 @@ Each folder comes with a `README` file that links to the data sources, and the c
 
 On top of the [tidyverse][tidyverse], and [`ggplot2`][ggplot2] in particular:
 
+[tidyverse]: https://tidyverse.org/
 [ggplot2]: https://ggplot2.tidyverse.org/
 
 - Manipulating model results
