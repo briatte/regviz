@@ -77,12 +77,14 @@ Some of the packages used in the background or on an occasional basis include [`
 ## Handbooks
 
 - Gelman, Hill and Vehtari, [_Regression and Other Stories_][ros]
-- Healy, [_Data Visualization_][healy] (ch. 6 in particular)
-- Wilke, [_Fundamentals of Data Visualization_][wilke] (ch. 16 in particular)
+- Healy, [_Data Visualization_][healy] ([ch. 6][healy-ch6] in particular)
+- Wilke, [_Fundamentals of Data Visualization_][wilke] ([ch. 16][wilke-ch16] in particular)
 
 [healy]: https://socviz.co/
+[healy-ch6]: https://socviz.co/06-modeling.html
 [ros]: https://avehtari.github.io/ROS-Examples/
 [wilke]: https://clauswilke.com/dataviz/
+[wlike-ch16]: https://clauswilke.com/dataviz/visualizing-uncertainty.html
 
 ## Notes
  
