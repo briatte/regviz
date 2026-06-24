@@ -34,11 +34,12 @@ For an additional demo of the `ggcoef_*` functions from the [`ggstats`][ggstats]
 [ggstats]: https://larmarange.github.io/ggstats/
 [larmarange24]: https://www.youtube.com/watch?v=T5FiU2oaxXM
 
-For more information on the [`marginaleffects`][marginaleffects] package, watch [Vincent Arel-Bundock's guest lecture in Dirk Eddelbuettel's STAT 447 course][vab26], and read [Arel-Bundock, Greifer and Heiss 2024][abgh24].
+For more information on the [`marginaleffects`][marginaleffects] package, watch [Vincent Arel-Bundock's guest lecture in Dirk Eddelbuettel's STAT 447 course][vab26], and read [Arel-Bundock, Greifer and Heiss 2024][abgh24] and [Rohrer and Arel-Bundock 2026][rab26].
 
-[marginaleffects]: https://marginaleffects.com/
-[vab26]: https://www.youtube.com/watch?v=v3TX9nXHXo8
 [abgh24]: https://doi.org/10.18637/jss.v111.i09
+[marginaleffects]: https://marginaleffects.com/
+[rab26]: https://doi.org/10.1177/25152459261424825
+[vab26]: https://www.youtube.com/watch?v=v3TX9nXHXo8
 
 Each folder comes with a `README` file that links to the data sources, and the code includes links to tutorials, vignettes and documentation pages.
 
