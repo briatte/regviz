@@ -12,7 +12,9 @@ library(ggstats)
 library(haven) # needs to be explicitly loaded for labelled variables
 library(marginaleffects)
 library(marimekko)
+library(modelsummary)
 library(patchwork)
+library(texreg)
 library(tidyverse)
 
 # European Social Survey data ---------------------------------------------

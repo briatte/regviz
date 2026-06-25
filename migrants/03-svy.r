@@ -9,8 +9,8 @@
 # required packages
 
 library(modelsummary)
-library(survey)
 library(srvyr)
+library(survey)
 library(tidyverse)
 
 # load saved datasets and models ------------------------------------------
